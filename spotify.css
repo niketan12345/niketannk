@@ -1,0 +1,110 @@
+.containerBox {
+    position: relative;
+    color: white;
+}
+
+.top-left {
+    position: absolute;
+    top: 20%;
+    left: 56px;
+    margin-left: 10%;
+     font-weight: 600;
+}
+
+
+
+
+
+.top-right {
+    position: absolute;
+    top: 2px;
+    right: 1px;
+    
+
+
+}
+
+.bottom-left {
+    position: absolute;
+    bottom: 50%;
+    left: 56px;
+    margin-left: 10%;
+    
+}
+
+.regBtn {
+    border: none;
+    padding: 10px;
+    border-radius: 30px;
+    background-color: pink;
+    color: white;
+    width: 150px;
+    height: 50px;
+    
+    
+}
+/* .bottom-right{ */
+    /* margin: 0; */
+    /* padding: 0; */
+/* } */
+/* .container2{ */
+    /* margin: 10px; */
+    /* padding-bottom: 0px; */
+    
+    
+    
+/* } */
+/* .bottom-right{ */
+    /* margin-top: 0px; */
+    /* margin-left: 0px; */
+/* } */
+.august{
+    margin-top: -350px;
+    margin-right: 50px;
+    margin-left: 900px;
+    padding: 10px;
+    
+    
+    border-radius: 10px;
+    background-color: rgb(96, 86, 238);
+    color: white;
+    display: flex;
+    justify-content: flex-end;
+    
+    
+    
+    
+}
+/* .august h1{ */
+    /* padding-bottom: 150px; */
+/* } */
+.start{
+    margin-top: 20px;
+    margin-right: 50px;
+    margin-left: 900px;
+    padding: 10px;
+    
+    border-radius: 10px;
+    background-color: rgb(96, 86, 238);
+    color: white;
+    display: flex;
+    justify-content: flex-end;
+    
+    
+}
+.webinar{
+    margin-top: 20px;
+    margin-right: 50px;
+    margin-left: 900px;
+    padding: 10px;
+    
+    border-radius: 10px;
+    background-color: rgb(96, 86, 238);
+    color:white;
+    display: flex;
+    justify-content: flex-end;
+    
+    
+    
+
+}
